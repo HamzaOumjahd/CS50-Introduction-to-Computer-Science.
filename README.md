@@ -87,7 +87,7 @@ A one player game built in Scratch featuring:
 
 I'm a Computer Science student based in Morocco, working through CS50x as part of my preparation for a Bachelor's degree in CS at an Italian university. Alongside CS50, I build projects in Python, Scratch, and web development.
 
-- 🌐 Portfolio: [mr._.ucl](https://github.com/HAMZAOUMJAH)
+- 🌐 Portfolio: (https://github.com/HAMZAOUMJAH)
 - 📺 YouTube: [https://youtube.com/@pauzthevideo?si=lk8AZa1NVAalgWGh]
 
 ## 📌 Notes
